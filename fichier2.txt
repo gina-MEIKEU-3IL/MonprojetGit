@@ -1,1 +1,2 @@
 ce travaux pratiques nous permettra d'apprehender plus facilement les notions de bases de Git.Bonsoir a vous.
+Nous arrivons bientôt a la fin de ce tp.
