@@ -1,0 +1,1 @@
+il nous permettra d'avoir les notions de bases pour manipuler Git
