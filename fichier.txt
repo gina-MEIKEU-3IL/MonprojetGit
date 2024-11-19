@@ -1,1 +1,3 @@
  Contenu initial.
+ Amélioration du contenu . 
+Le --amend permet de faire une mofid malgré le fait d'avoir déjà commit.
