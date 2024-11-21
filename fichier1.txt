@@ -1,2 +1,5 @@
 il nous permettra d'avoir les notions de bases pour manipuler Git.Mais ce n'est pas evident de comprendre ca .
 Bonsoir ici .
+premiere optimisation
+deuxième optimisation
+troisième optimisation 
